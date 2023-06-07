@@ -14,6 +14,10 @@ Visual components and Python
 ## PROCEDURE :
 
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
+## EXPERIMENT:
+![out1](https://github.com/Mamthaiyappaprabu/Open-Jacson-Networks/assets/119393563/dfa30e27-4bdb-4817-b2b5-ef458450043a)
+
+![out2](https://github.com/Mamthaiyappaprabu/Open-Jacson-Networks/assets/119393563/73c45e5a-c34e-43dd-bdcc-e124bb1d7db6)
 
 ## PROGRAM:
 Developed by : MAMTHA I
